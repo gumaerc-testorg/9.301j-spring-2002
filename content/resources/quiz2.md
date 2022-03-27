@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 87856b45-27a5-878d-0825-74ab92c86b4b
 resourcetype: Document
 title: 'Quiz #2: Invertebrate Learning'
 uid: 3f2d0195-d369-33f6-8ed9-c7d1803e4cad

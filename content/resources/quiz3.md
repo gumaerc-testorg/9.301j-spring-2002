@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 87856b45-27a5-878d-0825-74ab92c86b4b
 resourcetype: Document
 title: 'Quiz #5: Primate Learning & Memory'
 uid: dcf0195a-aef1-9e8e-d51e-e9b64e81c7d8

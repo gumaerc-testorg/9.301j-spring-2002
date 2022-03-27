@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 87856b45-27a5-878d-0825-74ab92c86b4b
 resourcetype: Document
 title: 'Quiz #1: Synaptic Plasticity'
 uid: 6a1cfaa0-46e7-b56f-253d-43d19be4e2d1

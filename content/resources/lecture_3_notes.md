@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6664e3f8-e2d9-49c8-0bb4-a4bfb327bf75
 resourcetype: Document
 title: 'Lecture 3: Synaptic Transmission'
 uid: 216f8462-191d-a97d-5cb5-c55685be12a7

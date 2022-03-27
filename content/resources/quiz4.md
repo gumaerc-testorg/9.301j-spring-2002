@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 87856b45-27a5-878d-0825-74ab92c86b4b
 resourcetype: Document
 title: 'Quiz #4: Learning and Memory in Rodents'
 uid: c275a143-2ac9-3b74-6a16-4e4ff1f1788e
