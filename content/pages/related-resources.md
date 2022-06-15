@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides external links to online references for additional
+  resources in the field of learning and memory. These range from professional societies
+  that maintain links to areas that any reader can explore in the field of learning
+  and memory. Many of the linked sites provide resources for further study, as well
+  as downloadable resources that can be used for classroom teaching.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -17,7 +22,7 @@ The [American Psychological Society](http://www.psychologicalscience.org/) promo
 
 The [Organization for Human Brain Mapping](http://www.humanbrainmapping.org/) provides an educational forum for the exchange of up-to-the-minute and ground breaking research across modalities exploring Human Brain Mapping.
 
-The ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Federation of Behavioral, Psychological and Cognitive Sciences (PDF)](http://cred.columbia.edu/files/2012/01/2009NSTCSBEbriefing.pdf) is a coalition of [Member Organizations](http://www.thefederationonline.org/), university departments of psychology, schools of education, research centers, regional psychological associations, and science divisions of the American Psychological Association (APA).
+The [Federation of Behavioral, Psychological and Cognitive Sciences (PDF)](http://cred.columbia.edu/files/2012/01/2009NSTCSBEbriefing.pdf) is a coalition of [Member Organizations](http://www.thefederationonline.org/), university departments of psychology, schools of education, research centers, regional psychological associations, and science divisions of the American Psychological Association (APA).
 
 The [American Society of Neuroimaging](http://www.asnweb.org/) is an international, professional organization representing neurologists, neurosurgeons, neuroradiologists and other neuroscientists who are dedicated to the advancement of techniques used to evaluate the nervous system.
 
