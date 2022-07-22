@@ -6,6 +6,7 @@ file: /courses/9-301j-neural-plasticity-in-learning-and-development-spring-2002/
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Quiz #5: Primate Learning & Memory'
 uid: b7e16c7a-eefa-9b00-75f4-3086a94de9e9
 ---
 Quiz on primate learning and memory, working memory, and behavior-guiding rules.
-

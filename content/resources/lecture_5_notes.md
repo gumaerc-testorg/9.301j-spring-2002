@@ -5,6 +5,7 @@ file: /courses/9-301j-neural-plasticity-in-learning-and-development-spring-2002/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 5: Expression of Plasticity'
 uid: 4fe6bdf8-093a-6967-6d6c-920ffacf3b8b
 ---
 Lecture notes on expression of plasticity.
-
