@@ -2,6 +2,7 @@
 content_type: resource
 description: Quiz on learning and memory in rodents.
 file: /courses/9-301j-neural-plasticity-in-learning-and-development-spring-2002/c275a1432ac93b746a164e4ff1f1788e_quiz4.pdf
+file_size: 52845
 file_type: application/pdf
 learning_resource_types:
 - Assignments
