@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Quiz on invertebrate learning.
-file: /ol-ocw-studio-app/courses/9-301j-neural-plasticity-in-learning-and-development-spring-2002/3f2d0195d36933f68ed9c7d1803e4cad_quiz2.pdf
+file: /courses/9-301j-neural-plasticity-in-learning-and-development-spring-2002/3f2d0195d36933f68ed9c7d1803e4cad_quiz2.pdf
 file_size: 83390
 file_type: application/pdf
 learning_resource_types:
