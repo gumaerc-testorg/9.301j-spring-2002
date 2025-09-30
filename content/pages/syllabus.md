@@ -18,7 +18,7 @@ Textbook
 
 Bear, Connors and Paradiso. _Neuroscience, Exploring the Brain._ Williams & Wilkins, 2000.
 
-This course covers the molecular and cellular basis of synaptic plasticity, hippocampal function and the role of plasticity in both vertebrate and invertebrate memory. The course is taught by members of MIT's [Picower Center for Learning and Memory](http://picower.mit.edu/).
+This course covers the molecular and cellular basis of synaptic plasticity, hippocampal function and the role of plasticity in both vertebrate and invertebrate memory. The course is taught by members of MIT's {{% resource_link "0dd35e16-90d9-4317-92be-bd164f88bc18" "Picower Center for Learning and Memory" %}}.
 
 Requirements
 ------------
